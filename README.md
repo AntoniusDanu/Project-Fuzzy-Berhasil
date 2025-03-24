@@ -1,3 +1,5 @@
+* HARAP BACA TERLEBIH DAHULU *
+
 * SISTEM DETEKSI KEBOCORAN GAS ELPIJI *
 
 ![Photo from Antonius Danu Pranoto](https://github.com/user-attachments/assets/c62a5bef-aec3-4f81-8900-24b912228c97)
@@ -18,6 +20,9 @@ DOKUMENTASI : https://docs.google.com/document/d/1BKxCE-ncDLPFHhW5q6QzI64s3Yg83N
 
 Download fuzzy.h zip dan tambahkan ke library manager pada arduino ide.
 
+Modifikasi beberapa parameter yang ada pada kode seperti ; input, output,dan fuzzy rules.
+
+Untuk mengontrol aktuator, gunakan nilai parameter akhir defuzzify(defuzzyfikasi) sebagai parameter pengontrol.
 
 
 
